@@ -1,6 +1,6 @@
 # Sanmax Mercado Landing Page
 
-This project is a simple landing page for Sanmax Mercado, a fictional company that specializes in e-commerce solutions. The landing page is built using HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
+This project is a simple landing page for Sanmax Mercado. The landing page is built using HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
 
 
 ## Features
