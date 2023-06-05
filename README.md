@@ -1,6 +1,7 @@
 # Sanmax Mercado Landing Page
 
 This project is a simple landing page for Sanmax Mercado. The landing page is built using HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
+
 https://tejaprabhukadha.github.io/Sanmax_Mercado_landingPage/
 
 ## Features
