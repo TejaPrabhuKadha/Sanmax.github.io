@@ -2,7 +2,7 @@
 
 This project is a simple landing page for Sanmax Mercado, a fictional company that specializes in e-commerce solutions. The landing page is built using HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
 
-https://tejaprabhukadha.github.io/Sanmax.github.io/
+
 ## Features
 
 - **Modern Design:** The landing page features a modern and clean design, with attention to typography and layout.
